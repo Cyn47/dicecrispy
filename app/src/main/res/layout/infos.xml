@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin"
+    android:background="@color/highlighted_text_material_dark"
+    android:id="@+id/pageInfos">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Infos sur Dice Crispy\n\nDéveloppeur : Cindy ESCLAPEZ\nSite web : http://www.cindy-esclapez.fr/ \n\n1ère mise en ligne : 24/08/2016\n\nN&apos;hésitez pas à noter l&apos;appli sur le Play Store et d&apos;ajouter un commentaire !"
+        android:id="@+id/textInfos"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="43dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/dice"
+        android:layout_above="@+id/textInfos"
+        android:layout_marginLeft="125dp"
+        android:layout_marginRight="125dp"
+        android:layout_marginBottom="50dp" />
+
+
+</RelativeLayout>
