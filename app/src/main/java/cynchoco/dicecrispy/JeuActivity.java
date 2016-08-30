@@ -29,5 +29,28 @@ public class JeuActivity extends Activity {
         //demander au textview de remplir le textview avec la chaine récupérée
         //String name = intent.getStringExtra("NAME");
         //this.textView.setText(name);
+
+        //haha
+
+        /*
+        lkdsjflsf
+
+        sdfsdkfs
+        fsdfùdsjkfds
+        $gfd$fd
+        h
+        dgj
+        dghj
+        sg
+        ngf
+        n
+        s
+        nbs
+        gfb
+        n
+        ysnhgfgfsfg
+        sgf
+        st
+         */
     }
 }
