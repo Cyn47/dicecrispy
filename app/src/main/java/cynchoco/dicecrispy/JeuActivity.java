@@ -29,9 +29,7 @@ public class JeuActivity extends Activity {
         //this.textView.setText(name);
 
         /*
-        dskjflksdjfkskdflkdsfj
-        slkdjflkjsdjfkjsdkfljsd
-        lksdjflkdsfjlksdfjljsd
+        TEST ULTIME
          */
     }
 }
