@@ -29,7 +29,9 @@ public class JeuActivity extends Activity {
         //this.textView.setText(name);
 
         /*
-        WAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        dskjflksdjfkskdflkdsfj
+        slkdjflkjsdjfkjsdkfljsd
+        lksdjflkdsfjlksdfjljsd
          */
     }
 }
