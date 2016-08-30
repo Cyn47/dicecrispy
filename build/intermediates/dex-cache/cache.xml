@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4e9c6801e4e16740a82832ad37e042f671c0c129\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_0598cd63f29bef6518a06ee856eb886a0726846a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c2a1745d2c4cf13e2ff38574d832d266b797b316\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="309a53d891200991deaa6d06c8192e796ddb10dd">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c827c7422208611290eb56e443ea12fce4a6d262\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_c740ea70b4e1a0fd1266280e96c7be916e2e3442\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_8bd3aa651f07645c1c00115db30760e69d0cd3de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_83a09ea7ecc85ef3ebe44c20d03c57559aaf52cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_72a94b77764303bcd2fea41c74f05f49c7b99889\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_6db23f1e9a70234863e579aca0ac0d1fad8decf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1cd49aee7b1ff154cecc3a78b204dd6ce2ff54a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ef83b94be54b65dad454140a0cfa85eaefc9cbb9">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9d2fb889bd5a3d3d5b550f3bea443da5a52bc7a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_533d2dcbc1fc59d1c0fc1ee8b86573123b5c92e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_da882915ee75f5dae07e58e6c0aeb717a75ef648\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_cd84f228f653c002298460581d2b2b1cb147c7a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_bb53c34d7555e728d7c74553dabf20c8c1a89ca4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_b20d4590fe13817a0f435e45be8e28efb4b8ae2f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\C8965927\AndroidStudioProjects\dicecrispy\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_a9f5b3b329a2ec27d1ef00b64330714a825cdbcc\classes.dex" />
+    </item>
+
+</items>

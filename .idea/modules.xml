@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< 647439b8f111eea9a5ae0283068d184fd4180996
       <module fileurl="file://$PROJECT_DIR$/DiceCrispy.iml" filepath="$PROJECT_DIR$/DiceCrispy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dicecrispy.iml" filepath="$PROJECT_DIR$/dicecrispy.iml" />
+>>>>>>> lsdfjds
     </modules>
   </component>
 </project>
