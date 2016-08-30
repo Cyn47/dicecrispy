@@ -5,8 +5,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import java.util.Random;
-
 /**
  * Created by Cyn on 25/08/2016.
  */
@@ -30,27 +28,8 @@ public class JeuActivity extends Activity {
         //String name = intent.getStringExtra("NAME");
         //this.textView.setText(name);
 
-        //haha
-
         /*
-        lkdsjflsf
-
-        sdfsdkfs
-        fsdfùdsjkfds
-        $gfd$fd
-        h
-        dgj
-        dghj
-        sg
-        ngf
-        n
-        s
-        nbs
-        gfb
-        n
-        ysnhgfgfsfg
-        sgf
-        st
+        WAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
          */
     }
 }
