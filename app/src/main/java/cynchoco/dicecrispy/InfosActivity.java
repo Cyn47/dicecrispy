@@ -19,14 +19,11 @@ public class InfosActivity extends Activity {
 
         //Récupérer une occurrence du textview qui est dans l'activité (cible => ecran infos)
         this.textView = (TextView) this.findViewById(R.id.textInfos);
-        //this.textView = (TextView) this.findViewById(R.id.pageInfos);
 
         //récupérer les données de l'intent créé
         Intent intent = this.getIntent();
 
-        //demander au textview de remplir le textview avec la chaine récupérée
-        //String name = intent.getStringExtra("NAME");
-        //this.textView.setText(name);
+        //bla bla
 
     }
 }
