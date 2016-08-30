@@ -25,5 +25,7 @@ public class InfosActivity extends Activity {
 
         //bla bla
 
+        //test changement de nom
+
     }
 }
