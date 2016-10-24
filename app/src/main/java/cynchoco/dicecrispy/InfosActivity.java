@@ -27,5 +27,7 @@ public class InfosActivity extends Activity {
 
         //test changement de nom
 
+        //test git du 24/10/2016
+
     }
 }
